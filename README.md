@@ -111,8 +111,6 @@ Understanding of IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service
 
 ---
 
-<img width="933" height="540" alt="image" src="https://github.com/user-attachments/assets/6f0a41d7-e454-4976-96d0-4c7b6bb3dc49" />
-
 <img width="1057" height="570" alt="image" src="https://github.com/user-attachments/assets/d0158bf5-032c-4d79-9851-4f1f06925451" />
 
 ---
